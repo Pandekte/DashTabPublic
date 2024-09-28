@@ -26,6 +26,34 @@ To install this extension:
 
 Welcome to Dash Tab, a versatile browser extension designed to enhance your productivity by managing bookmarks and to-do lists efficiently. This guide will walk you through the features of the extension and how to use them effectively.
 
+---
+
+## Table of Contents
+
+1. [Managing Bookmarks](#1-managing-bookmarks)
+   - Adding Bookmarks
+   - Editing Bookmarks
+   - Removing Bookmarks
+   - Organizing Bookmarks with Drag and Drop
+2. [Using the To-Do List](#2-using-the-to-do-list)
+   - Adding To-Do Items
+   - Reordering To-Do Items with Drag and Drop
+   - Viewing Long To-Do Items
+   - Marking Tasks as Complete
+   - Deleting Tasks
+   - Clearing the To-Do List
+   - Restoring the To-Do List
+   - Hiding the To-Do List
+3. [Saving and Loading Bookmarks](#3-saving-and-loading-bookmarks)
+   - Exporting Bookmarks
+   - Importing Bookmarks
+   - Clearing All Bookmarks
+4. [Settings Options](#4-settings-options)
+   - Applying Settings
+5. [Additional Features](#5-additional-features)
+
+---
+
 ## 1. Managing Bookmarks
 
 ### **Adding Bookmarks**
@@ -60,12 +88,28 @@ Welcome to Dash Tab, a versatile browser extension designed to enhance your prod
 - **Step 2:** Drag the card to your desired position in the list.
 - **Step 3:** Release the mouse button to drop the bookmark in the new position.
 
+---
+
 ## 2. Using the To-Do List
 
 ### **Adding To-Do Items**
 
 - **Step 1:** Enter your task in the **Add new item** input field in the sidebar.
 - **Step 2:** Press **Enter** or click the **➕** button to add the item to your list.
+
+### **Reordering To-Do Items with Drag and Drop**
+
+- **Step 1:** Click and hold the to-do item you wish to move.
+- **Step 2:** Drag the item to your desired position in the list.
+- **Step 3:** Release the mouse button to drop the item in the new position.
+
+### **Viewing Long To-Do Items**
+
+- **Automatic Text Truncation:** If a to-do item's text exceeds 100 characters, it will be automatically truncated with an ellipsis (`...`).
+- **Expanding Text:**
+  - **Step 1:** Click on the truncated to-do item's text.
+  - **Step 2:** The full text will expand for you to read.
+  - **Step 3:** Click again to collapse the text back to its truncated form.
 
 ### **Marking Tasks as Complete**
 
@@ -74,7 +118,8 @@ Welcome to Dash Tab, a versatile browser extension designed to enhance your prod
 
 ### **Deleting Tasks**
 
-- **Step 1:** Click the **X** button next to the task you wish to remove.
+- **Step 1:** Click the **Trash** icon button next to the task you wish to remove.
+- **Modern Buttons:** The delete button now features a modern design with intuitive icons for a better user experience.
 
 ### **Clearing the To-Do List**
 
@@ -91,6 +136,8 @@ Welcome to Dash Tab, a versatile browser extension designed to enhance your prod
 - **Step 1:** Click the **Settings** button (⚙️).
 - **Step 2:** In the settings modal, check the **Hide To-Do List** option.
 - **Step 3:** Click **Save Changes** to apply.
+
+---
 
 ## 3. Saving and Loading Bookmarks
 
@@ -112,6 +159,8 @@ Welcome to Dash Tab, a versatile browser extension designed to enhance your prod
 - **Step 2:** In the settings modal, click the **Clear** button next to **Clear All Bookmarks**.
 - **Step 3:** Confirm the action when prompted.
 
+---
+
 ## 4. Settings Options
 
 Access the settings by clicking the **Settings** button (⚙️). Here are the available options:
@@ -131,14 +180,26 @@ Access the settings by clicking the **Settings** button (⚙️). Here are the a
 - **Step 2:** Click **Save Changes** to apply the new settings.
 - **Step 3:** The extension will refresh to reflect your changes.
 
-## Additional Features
+---
+
+## 5. Additional Features
+
+- **Modernized To-Do List Appearance:**
+  - **Unified Styling:** To-do items now appear in a box with the same color as your bookmark cards, providing a cohesive look.
+  - **Modern Buttons:** The delete button next to each to-do item now features a modern trash icon, enhancing the user interface.
 
 - **Quick Add with Enter Key:**
   - Press **Enter** while in the **Label** or **URL** input fields to quickly add a bookmark.
   - Press **Enter** in the **Add new item** field to quickly add a to-do item.
+
 - **Window View:**
   - Click the **Window** button (🪟) to open a simplified view of your bookmarks in a new window.
+
 - **Responsive Design:**
   - The extension layout adapts to different screen sizes for optimal usability.
 
+---
+
 Enjoy using Dash Tab to streamline your browsing and task management!
+
+If you have any questions or need further assistance, feel free to reach out.
