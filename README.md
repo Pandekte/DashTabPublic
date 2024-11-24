@@ -17,7 +17,7 @@ Bookmark Manager is a comprehensive browser extension designed to help users eff
 
 ## Installation
 
-To install this extension:
+To **install Legacy version of this extension**:
 
 1. Go to the chromestore and install extension: https://chromewebstore.google.com/detail/dashtab/ojpihaakeniapmjfbgnieieecpejlhid
 
