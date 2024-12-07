@@ -1,6 +1,8 @@
 # DashTabPublic Legacy
 DashTab is a comprehensive browser extension designed to help users efficiently manage their bookmarks. This extension provides various functionalities, including bookmark management, to-do list management, custom background settings, and dark mode toggling.
-There is new version being developed, you can find it here: https://chromewebstore.google.com/detail/new-tab-page-home-screen/dmdeigebfbjbndnnaheobifpfnkhlgbo current version 0.4 as of 06.12.24
+Extension page: https://chrome.google.com/webstore/detail/dashtab/ojpihaakeniapmjfbgnieieecpejlhid
+
+# There is new version being developed, you can find it here: https://chromewebstore.google.com/detail/new-tab-page-home-screen/dmdeigebfbjbndnnaheobifpfnkhlgbo current version 0.4 as of 06.12.24
 
 # Bookmark Manager Extension
 
